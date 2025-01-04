@@ -245,7 +245,7 @@ namespace Session_2
             ////typeA.D = 12;
 
             //typeA.Fun01();
-            //typeA.Fun02(); 
+            //typeA.Fun02();
             #endregion
 
         }

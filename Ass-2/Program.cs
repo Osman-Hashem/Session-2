@@ -44,7 +44,7 @@
             //internalProtected02.Print();
 
             //InternalProtected02 internalProtected023 = new InternalProtected02();
-            //internalProtected023.Print(); 
+            //internalProtected023.Print();
             #endregion
 
 

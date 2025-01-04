@@ -1,0 +1,19 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net8.0</TargetFramework>
+    <RootNamespace>Session_2</RootNamespace>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <EditorConfigFiles Remove="D:\course route\OOP\Session-2\Session-2\Session-2\.editorconfig" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="D:\course route\OOP\Session-2\Session-2\Session-2\.editorconfig" />
+  </ItemGroup>
+
+</Project>
